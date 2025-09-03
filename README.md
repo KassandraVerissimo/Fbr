@@ -26,14 +26,14 @@ Sinta-se à vontade para navegar pelos arquivos, conferir meus desafios resolvid
 - [x] realizar vinculo remoto 
       [x]
 ### Logica de programacao em python 
-- [ ] ambientaçao 
+- [x] ambientaçao 
 - [x] variaveis 
 - [x] entrada e saida de dados 
-- [ ] estruturas condicionais 
-   - [ ] if, elif e else 
-   - [ ] match case 
-- [ ] estruturas de repeticao 
-   - [ ] for
-   - [ ] while 
-- [ ] listas
-- [ ] dicionarios 
+- [x] estruturas condicionais 
+   - [x] if, elif e else 
+   - [x] match case 
+- [x] estruturas de repeticao 
+   - [x] for
+   - [x] while 
+- [x] listas
+- [x] dicionarios 
